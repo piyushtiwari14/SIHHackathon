@@ -1,3 +1,7 @@
+## SIH Problem statement solution 
+
+PPT Link : https://www.canva.com/design/DAFucSuTOho/OXShJQJM1fzjIxbenB26Kw/edit?utm_content=DAFucSuTOho&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 # Industrial Waste Exchange Platform
 
 ## Table of Contents
